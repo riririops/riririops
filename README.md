@@ -8,7 +8,7 @@
 - 🌱 今勉強中: TypeScript / React / Solid.js / Astro / Node.js
 - 💡 興味あり: Webアプリ開発、UI設計、パフォーマンス最適化
 - 🛠 最近作ったもの: [GitHubリンクや簡単な紹介]
-- - 🔗 [my-todo-app](https://github.com/riririops/my-todo-app) — シンプルなToDoリストアプリ
+- - 🔗 [my-todo-app]([https://github.com/riririops/todo-application.git]) — シンプルなToDoリストアプリ
 
 
 ---
