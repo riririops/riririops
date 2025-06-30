@@ -15,7 +15,7 @@
 
 ## 🛠 技術スタック
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,react,solid,nodejs,vite,github,git)
+![My Skills](https://skillicons.dev/icons?i=ts,js,react,solid,nodejs,vite,github)
 
 ---
 
