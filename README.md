@@ -1,42 +1,65 @@
 # 👋 こんにちは！せぱたです
 
-## 🧑‍💻 自己紹介
+## 🧑‍💻 About Me
 
-現在 **TypeScript** や **フロントエンドフレームワーク**（React / Solid.js など）を中心に学習しています。  
-学んだことを活かして、実用的なアプリやツールを少しずつ作っています。
+情報系の学生として、Webアプリケーション開発を中心に学習しています。
 
-- 🌱 今勉強中: TypeScript / React / Node.js
-- 💡 興味あり: Webアプリ開発、UI設計、パフォーマンス最適化
-- 🛠 最近作ったもの: [GitHubリンクや簡単な紹介]
-- - 🔗 [my-todo-app](https://github.com/riririops/todo-application.git) — シンプルなToDoリストアプリ
-- - 🔗 その他作成中
+現在は **TypeScript** を軸に、
 
+* React
+* Spring Boot
+
+などの技術を学びながら、実際にアプリケーションを作成しています。
+
+「学んだことを形にする」を目標に、フロントエンドからバックエンドまで幅広く挑戦中です。
 
 ---
 
-## 🛠 技術スタック
+## 🌱 Currently Learning
 
-![My Skills](https://skillicons.dev/icons?i=ts,js,react,solid,nodejs,vite,github)
+* TypeScript
+* React
+* Spring Boot
+* システム設計
+* Webセキュリティ
+
+---
+
+## 🚀 Projects
+
+### ToDo Application
+
+シンプルなToDo管理アプリ
+
+* React + Vite
+* タスク追加・削除
+* ローカルストレージ保存
+
+🔗 https://github.com/riririops/todo-application  
 
 ---
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riririops)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riririops\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riririops&layout=compact&theme=tokyonight)
-
----
-
-## 📝 学習メモやアウトプット
-
-- 💡 勉強したことは GitHub に記録中！
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riririops\&layout=compact)
 
 ---
 
-## 🚀 もっと良くしていきたい
+## 🎯 Goals
 
-技術もスキルもまだまだですが、常に成長したいと思っています。  
-アドバイスやご指摘をいただけるとありがたいです！よろしくお願いします🙏  
-**学んだことをどんどん形にしていきます！応援よろしくお願いします🙇‍♂️**  
+* フルスタック開発スキルの向上
+* 個人開発アプリの継続公開
+* システム設計・セキュリティの理解を深める
+* ユーザーに価値を届けるアプリケーション開発
 
+---
+
+## 📝 Message
+
+まだ学習中の身ですが、実際に手を動かしながら日々成長しています。
+
+GitHubでは学習記録や個人開発の成果を公開しているので、ぜひご覧ください！
+
+これからも継続して開発に取り組んでいきます 🚀
