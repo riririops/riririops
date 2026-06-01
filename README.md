@@ -22,7 +22,7 @@
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riririops&show_icons=true&theme=tokyonight)
+![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riririops)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=riririops&layout=compact&theme=tokyonight)
 
